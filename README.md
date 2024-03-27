@@ -4,7 +4,7 @@
 This study introduces a powerful deep learning framework for accurate epitope prediction, offering new avenues for the development of epitope-based vaccines and immunotherapies targeting IL-13-mediated disorders. The successful identification of IL-13-inducing epitopes paves the way for novel therapeutic interventions against allergic diseases, inflammatory conditions, and potentially severe viral infections like COVID-19. 
 <br>
 <br>
-![workflow](Figure/Workflow.png)
+![workflow](Figure/Workflow.jpg)
 <br>
 The workflow for IL-13 inducing prediction model.
 

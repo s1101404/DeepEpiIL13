@@ -9,3 +9,11 @@ This study introduces a powerful deep learning framework for accurate epitope pr
 The workflow for IL-13 inducing prediction model.
 
 ## Dataset <a name="Dataset"></a>
+
+| Dataset        | Total       | IL-13-inducing peptides    | Non-IL-13-inducing peptides |
+|----------------|-------------|----------------------------|-----------------------------|
+| Training data  | 2576          | 250                      | 2326                        |
+| Testing data   | 645           | 63                       | 582                         |
+| SARS-CoV2 data | 52            | 12                       | 40                          |
+
+## Quick start <a name="quickstart"></a>
